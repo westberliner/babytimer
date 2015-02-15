@@ -1,0 +1,27 @@
+{
+  "name": "babytimer",
+  "version": "0.1.0",
+  "authors": [
+    "Patrick Herzberg <patrick@westberliner.net>"
+  ],
+  "description": "Babytimer",
+  "main": "index.html",
+  "keywords": [
+    "Babytimer",
+    "dipers",
+    "dinner"
+  ],
+  "license": "MIT",
+  "homepage": "westberliner.net",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-timeago": "~1.4.1"
+  }
+}
